@@ -11,7 +11,7 @@ import io.realm.annotations.PrimaryKey;
  * Created by suyashg on 25/08/17.
  */
 
-public class IndoorProject extends RealmObject {
+public class pppppppppppppppppppppppppppppppppppppppppppppppppppppppppIndoorProject extends RealmObject {
 
     @PrimaryKey
     private String id = UUID.randomUUID().toString();
